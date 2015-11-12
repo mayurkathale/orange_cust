@@ -20,7 +20,12 @@ angular
     'ngTouch',
     'ui.router'
   ])
-  .config(function ($stateProvider, $urlRouterProvider) {
+  .config(function ($httpProvider, $stateProvider, $urlRouterProvider) {
+    $httpProvider.defaults.useXDomain = true;
+    $httpProvider.defaults.withCredentials = true;
+    delete $httpProvider.defaults.headers.common["X-Requested-With"];
+    $httpProvider.defaults.headers.common["Accept"] = "application/json";
+    $httpProvider.defaults.headers.common["Content-Type"] = "application/json";
     $urlRouterProvider.otherwise("/home");
     $stateProvider
       .state('home', {
