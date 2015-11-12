@@ -4,4 +4,4 @@
 #RewriteCond %{REQUEST_URI} !app/
 #RewriteRule (.*) /app/$1 [L]
 RewriteEngine On
-RewriteRule ^/app/(.*)$ http://www.orangehrm-customization.com/$1 [L,R=301]
+RewriteRule ^/app/(.*)$ http://orangehrm-customization.com/$1 [L,R=301]
