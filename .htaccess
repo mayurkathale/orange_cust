@@ -1,9 +1,5 @@
-#RewriteEngine on
-#RewriteCond %{HTTP_HOST} ^orangehrm-customization.com$ [NC,OR]
-#RewriteCond %{HTTP_HOST} ^www.orangehrm-customization.com$
-#RewriteCond %{REQUEST_URI} !app/
-#RewriteRule (.*) /app/$1 [L]
-Options +FollowSymLinks
 RewriteEngine on
-RewriteCond %{REQUEST_URI} !(.*)app 
-RewriteRule ^(.*)$ app/$1 [L]
+RewriteCond %{HTTP_HOST} ^orangehrm-customization.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.orangehrm-customization.com$
+RewriteCond %{REQUEST_URI} !app/
+RewriteRule (.*) /app/$1 [L]
