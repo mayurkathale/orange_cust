@@ -1,4 +1,4 @@
 <?php
-  header( '/app/index.html' );
+  header( './app/index.html' );
   exit();
 ?>
