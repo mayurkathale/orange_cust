@@ -81,3 +81,57 @@ body {
     border-bottom: 0;
   }
 }
+
+
+
+
+@font-face {
+  font-family: shareregular;
+  src: url(../fonts/Share-Regular.ttf);
+}
+
+@font-face {
+  font-family: jura;
+  src: url(../fonts/Jura-DemiBold.ttf);
+}
+
+.heading-line {
+  font-weight: 400;
+  font-family: jura;
+  text-transform: uppercase;
+  line-height: 1em;
+}
+
+
+.site-title {
+  font-weight: 400;
+  font-family: Tahoma;
+  text-transform: uppercase;
+  line-height: 1em;
+}
+
+.user-name {
+  font-family: "jura", "Lucida Grande", sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  font-weight: bolder;
+}
+
+.title{
+  font-family: "shareregular", Courier, monospace;
+  font-weight: bolder;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.navbar {
+  background-color: transparent;
+  background: transparent;
+  border-color: transparent;
+  margin-bottom: 0px !important;
+}
+.navbar li { color: #000 }

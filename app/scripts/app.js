@@ -17,19 +17,20 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'ui.router'
   ])
-  .config(function ($routeProvider) {
-    $routeProvider
-      .when('/', {
-        templateUrl: 'views/main.html',
-        controller: 'MainCtrl'
+  .config(function ($stateProvider, $urlRouterProvider) {
+    $urlRouterProvider.otherwise("/home");
+    $stateProvider
+      .state('home', {
+        templateUrl: '../views/home.html',
+        //controller: 'HomeCtrl',
+        url: '/home'
       })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl'
-      })
-      .otherwise({
-        redirectTo: '/'
+      .state('about', {
+        templateUrl: '../views/about.html',
+        //controller: 'AboutCtrl',
+        url: '/aboutme'
       });
   });
