@@ -21,12 +21,7 @@ angular
     'ui.router'
   ])
   .config(function ($httpProvider, $stateProvider, $urlRouterProvider) {
-    $httpProvider.defaults.useXDomain = true;
-    $httpProvider.defaults.withCredentials = true;
-    delete $httpProvider.defaults.headers.common["X-Requested-With"];
-    $httpProvider.defaults.headers.common["Accept"] = "application/json";
-    $httpProvider.defaults.headers.common["Content-Type"] = "application/json";
-    $urlRouterProvider.otherwise("/home");
+    $urlRouterProvider.otherwise("home");
     $stateProvider
       .state('home', {
         templateUrl: '../views/home.html',
@@ -37,5 +32,20 @@ angular
         templateUrl: '../views/about.html',
         //controller: 'AboutCtrl',
         url: '/aboutme'
+      })
+      .state('contact', {
+        templateUrl: '../views/contact.html',
+        //controller: 'AboutCtrl',
+        url: '/contact'
+      })
+      .state('services', {
+        templateUrl: '../views/services.html',
+        //controller: 'AboutCtrl',
+        url: '/services'
+      })
+      .state('work', {
+        templateUrl: '../views/work.html',
+        //controller: 'AboutCtrl',
+        url: '/work'
       });
   });

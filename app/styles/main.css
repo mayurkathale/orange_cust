@@ -100,6 +100,8 @@ body {
   font-family: jura;
   text-transform: uppercase;
   line-height: 1em;
+  margin-top: 30px !important;
+  font-weight: bolder !important;
 }
 
 
@@ -111,7 +113,7 @@ body {
 }
 
 .user-name {
-  font-family: "jura", "Lucida Grande", sans-serif;
+  font-family: shareregular;
   text-transform: uppercase;
   text-decoration: underline;
   text-decoration-style: solid;
@@ -128,10 +130,86 @@ img.center {
   margin: 0 auto;
 }
 
-.navbar {
-  background-color: transparent;
-  background: transparent;
-  border-color: transparent;
-  margin-bottom: 0px !important;
+span#socialIcon > a {
+  margin-top: 10px !important;
 }
-.navbar li { color: #000 }
+
+.content {
+  width: 80%;
+  margin: auto;
+}
+
+@media (min-width: 768px){
+  .navbar-nav{
+    margin: 0 auto !important;
+    display: table !important;
+    table-layout: fixed !important;
+    float:none !important;
+  }
+}
+.contentContainer {
+  //border: #cdcdcd thin solid;
+  border: none;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  //display: block;
+  clear: both;
+}
+.contentContainer:first-child {
+  padding: 15px 15px;
+}
+.contentContainer .row > div.listClass {
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+}
+ img.iconImage {
+  height: 30px;
+  width: 30px;
+}
+
+.contactForm {
+  height : 367px;
+  overflow:auto !important;
+}
+.footer-nav {
+  margin-top: 15px;
+  color: #ffffff;
+  margin-bottom: 0 !important;
+}
+
+::-moz-selection {
+  color: #2c3e50 !important;
+  background: #18bc9c !important;
+}
+
+::selection {
+  color: #2c3e50 !important;
+  background: #18bc9c !important;
+}
+
+.verticalalign {
+  height: 90px !important;
+  line-height: 90px !important;
+}
+
+.verticalalignspan {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+.divCenter {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.containerHeading {
+  height: 50px;
+  line-height: 50px;
+  background: #2c3e50;
+  text-align: center;
+  vertical-align: middle !important;
+  font-size: 22px;
+  color: #ffffff;
+}
