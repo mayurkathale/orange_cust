@@ -2,7 +2,746 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03dd56c-3763-4a7f-837e-189a96c5f6a0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/eager.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/hover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/logo-transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/avatar/nan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/avatar/tom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/centered-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/image-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/image-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/media-paragraph-alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/media-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/short-paragraph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/square-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/text-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/images/wireframe/white-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/embed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/bootstrap3/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/colored/modules/checkbox.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/assets/images/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/assets/fonts/octicons-local.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/assets/fonts/octicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/assets/fonts/octicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/gmail/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/round/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/526cbaf5d09eb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/branding-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/color_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/learnmore-api.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/site-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/css/demo-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/css/hover-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/css/hover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/_hacks.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/_mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/_options.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_bob.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_bounce-in.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_bounce-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_buzz-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_buzz.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_float.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_grow-rotate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_grow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_hang.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_pop.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_pulse-grow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_pulse-shrink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_pulse.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_push.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_rotate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_shrink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_sink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_skew-backward.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_skew-forward.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_skew.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_wobble-bottom.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_wobble-horizontal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_wobble-skew.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_wobble-to-bottom-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_wobble-to-top-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_wobble-top.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/2d-transitions/_wobble-vertical.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_back-pulse.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_bounce-to-bottom.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_bounce-to-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_bounce-to-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_bounce-to-top.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_fade.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_radial-in.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_radial-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_rectangle-in.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_rectangle-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_shutter-in-horizontal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_shutter-in-vertical.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_shutter-out-horizontal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_shutter-out-vertical.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_sweep-to-bottom.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_sweep-to-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_sweep-to-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/background-transitions/_sweep-to-top.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_border-fade.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_hollow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_outline-in.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_outline-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_overline-from-center.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_overline-from-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_overline-from-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_overline-reveal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_reveal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_ripple-in.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_ripple-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_round-corners.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_trim.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_underline-from-center.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_underline-from-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_underline-from-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/border-transitions/_underline-reveal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/curls/_curl-bottom-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/curls/_curl-bottom-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/curls/_curl-top-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/curls/_curl-top-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-back.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-bob.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-bounce-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-bounce.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-buzz-out.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-buzz.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-down.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-drop.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-fade.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-float-away.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-float.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-forward.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-grow-rotate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-grow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-hang.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-pop.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-pulse-grow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-pulse-shrink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-pulse.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-push.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-rotate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-shrink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-sink-away.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-sink.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-spin.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-up.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-wobble-horizontal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/icons/_icon-wobble-vertical.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/shadow-and-glow-transitions/_float-shadow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/shadow-and-glow-transitions/_glow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/shadow-and-glow-transitions/_grow-shadow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/shadow-and-glow-transitions/_shadow-radial.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/shadow-and-glow-transitions/_shadow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-bottom.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-float-bottom.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-float-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-float-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-float-top.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-left.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-right.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/effects/speech-bubbles/_bubble-top.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/less/hover.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/_hacks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/_options.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_bob.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_bounce-in.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_bounce-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_buzz-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_buzz.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_grow-rotate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_grow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_hang.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_pop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_pulse-grow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_pulse-shrink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_pulse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_push.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_rotate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_shrink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_sink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_skew-backward.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_skew-forward.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_skew.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_wobble-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_wobble-horizontal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_wobble-skew.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_wobble-to-bottom-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_wobble-to-top-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_wobble-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/2d-transitions/_wobble-vertical.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_back-pulse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_bounce-to-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_bounce-to-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_bounce-to-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_bounce-to-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_fade.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_radial-in.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_radial-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_rectangle-in.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_rectangle-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_shutter-in-horizontal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_shutter-in-vertical.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_shutter-out-horizontal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_shutter-out-vertical.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_sweep-to-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_sweep-to-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_sweep-to-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/background-transitions/_sweep-to-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_border-fade.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_hollow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_outline-in.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_outline-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_overline-from-center.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_overline-from-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_overline-from-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_overline-reveal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_reveal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_ripple-in.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_ripple-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_round-corners.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_trim.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_underline-from-center.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_underline-from-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_underline-from-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/border-transitions/_underline-reveal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/curls/_curl-bottom-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/curls/_curl-bottom-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/curls/_curl-top-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/curls/_curl-top-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-back.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-bob.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-bounce-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-bounce.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-buzz-out.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-buzz.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-down.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-drop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-fade.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-float-away.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-forward.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-grow-rotate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-grow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-hang.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-pop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-pulse-grow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-pulse-shrink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-pulse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-push.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-rotate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-shrink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-sink-away.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-sink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-spin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-up.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-wobble-horizontal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/icons/_icon-wobble-vertical.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/shadow-and-glow-transitions/_box-shadow-inset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/shadow-and-glow-transitions/_box-shadow-outset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/shadow-and-glow-transitions/_float-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/shadow-and-glow-transitions/_glow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/shadow-and-glow-transitions/_grow-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/shadow-and-glow-transitions/_shadow-radial.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/shadow-and-glow-transitions/_shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-float-bottom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-float-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-float-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-float-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/effects/speech-bubbles/_bubble-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/hover/scss/hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/RELEASE-NOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/library/iframe-content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/library/iframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/library/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/assets/show-examples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/attached.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/components/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/components/card.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/components/input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/components/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/components/site.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/components/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/fixed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/homepage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/sticky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/examples/theming.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/semantic.json.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/breadcrumb.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/breadcrumb.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/grid.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/container.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/container.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/divider.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/divider.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/flag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/flag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/image.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/image.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/input.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/input.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/label.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/label.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/list.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/list.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/rail.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/rail.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/reveal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/reveal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/segment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/segment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/accordion.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/accordion.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/chatroom.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/chatroom.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/checkbox.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/checkbox.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/dimmer.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/dimmer.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/embed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/nag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/nag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/popup.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/popup.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/rating.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/rating.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/search.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/search.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/shape.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/shape.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/sidebar.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/sidebar.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/sticky.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/sticky.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/tab.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/tab.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/transition.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/modules/transition.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/ad.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/ad.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/comment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/comment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/feed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/feed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/item.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/item.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/statistic.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/_site/views/statistic.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/behaviors/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/behaviors/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/behaviors/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/behaviors/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/behaviors/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/behaviors/visit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/collections/breadcrumb.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/collections/form.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/collections/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/collections/menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/collections/message.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/collections/table.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/container.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/flag.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/icon.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/input.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/label.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/loader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/rail.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/reveal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/segment.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/elements/step.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/globals/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/globals/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/globals/site.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/checkbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/dimmer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/nag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/nag.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/popup.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/progress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/rating.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/search.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/shape.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/sticky.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/tab.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/modules/transition.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/views/ad.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/views/card.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/views/comment.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/views/feed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/views/item.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/definitions/views/statistic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/semantic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/theme.config.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/amazon/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/amazon/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/amazon/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/basic/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/bookish/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/bookish/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/bootstrap3/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/modules/accordion.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/modules/accordion.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/views/comment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/chubby/views/comment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/collections/table.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/classic/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/colored/modules/checkbox.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/breadcrumb.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/breadcrumb.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/grid.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/container.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/container.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/divider.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/divider.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/flag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/flag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/image.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/image.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/input.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/input.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/label.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/label.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/list.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/list.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/rail.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/rail.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/reveal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/reveal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/segment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/segment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/accordion.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/accordion.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/chatroom.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/chatroom.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/checkbox.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/checkbox.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/dimmer.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/dimmer.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/embed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/embed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/nag.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/nag.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/popup.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/popup.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/rating.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/rating.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/search.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/search.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/shape.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/shape.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/sidebar.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/sidebar.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/sticky.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/sticky.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/tab.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/tab.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/transition.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/modules/transition.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/ad.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/ad.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/comment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/comment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/feed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/feed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/item.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/item.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/statistic.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/default/views/statistic.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/duo/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/duo/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/fixed-width/collections/grid.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/fixed-width/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/fixed-width/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/fixed-width/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/flat/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/flat/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/flat/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/flat/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/assets/fonts/octicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/breadcrumb.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/form.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/form.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/grid.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/message.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/collections/table.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/icon.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/icon.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/image.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/input.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/input.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/label.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/label.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/segment.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/segment.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/step.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/elements/step.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/github/modules/popup.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/gmail/collections/message.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/instagram/views/card.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/instagram/views/card.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/collections/menu.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/collections/menu.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/elements/header.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/elements/header.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/modules/dropdown.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/modules/dropdown.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/modules/modal.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/material/modules/modal.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/pulsar/elements/loader.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/pulsar/elements/loader.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/raised/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/raised/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/resetcss/globals/reset.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/resetcss/globals/reset.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/round/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/rtl/globals/site.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/rtl/globals/site.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/striped/modules/progress.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/striped/modules/progress.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/timeline/views/feed.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/timeline/views/feed.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/twitter/elements/button.overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/src/themes/twitter/elements/button.variables" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/components/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/components/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/components/update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/distributions/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/distributions/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/distributions/update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/publish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/admin/release.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/build/assets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/build/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/build/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/check-install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/collections/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/collections/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/collections/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/collections/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/collections/rtl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/github.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/oauth.example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/release.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/templates/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/templates/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/templates/component-package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/templates/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/templates/css-package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/templates/less-package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/admin/templates/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/npm/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/project/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/project/install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/project/release.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/tasks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/config/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/docs/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/docs/metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/docs/serve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/rtl/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/rtl/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bower_components/semantic/tasks/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/lib/gmaps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/work.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.htaccess" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/app/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home.html" afterPath="$PROJECT_DIR$/app/views/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/karma.conf.js" afterPath="$PROJECT_DIR$/test/karma.conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/app/scripts/.htaccess" />
     </list>
     <ignored path="ohrm_customization.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,19 +765,16 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7349398">
-              <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.036093418">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-              <folding />
+            <state vertical-scroll-proportion="-14.384615">
+              <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1448000283340" expanded="true" signature="1085:1236" placeholder="..." />
+                <marker date="1448000283340" expanded="true" signature="1178:1204" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,7 +783,7 @@
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -56,28 +792,24 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-12.615385">
+              <caret line="44" column="81" selection-start-line="44" selection-start-column="81" selection-end-line="44" selection-end-column="81" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.115385">
-              <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.64650285">
+              <caret line="210" column="21" selection-start-line="210" selection-start-column="21" selection-end-line="210" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -85,20 +817,32 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/default.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/app/.htaccess" />
         <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/app/views/work.html" />
+        <option value="$PROJECT_DIR$/app/views/services.html" />
+        <option value="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/app/views/contact.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/app/views/home.html" />
         <option value="$PROJECT_DIR$/app/styles/main.css" />
-        <option value="$PROJECT_DIR$/default.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -112,8 +856,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -122,7 +868,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -160,6 +906,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ohrm_customization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ohrm_customization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ohrm_customization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ohrm_customization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -170,11 +948,20 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\node\node.exe" />
     <property name="editor.config.accepted" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\MEAN\ohrm_customization\app\scripts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\MEAN\ohrm_customization\app" />
-      <recent name="G:\MEAN\ohrm_customization\app\fonts" />
+      <recent name="G:\MEAN\ohrm_customization\app\images" />
+      <recent name="G\MEAN\ohrm_customization\app\images" />
+      <recent name="Gm\MEAN\ohrm_customization\app\images" />
+      <recent name="G:\MEAN\ohrm_customization\bower_components\bootstrap\dist\css" />
+      <recent name="G:\MEAN\ohrm_customization\app\scripts\lib" />
     </key>
   </component>
   <component name="RunManager">
@@ -198,6 +985,12 @@
       <option name="cucumberJsArguments" value="" />
       <option name="executablePath" />
       <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <envs />
+      <force value="false" />
+      <verbose value="false" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -241,28 +1034,50 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25037038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.49330783" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5066922" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14015748" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5066922" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53431374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15024233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.119281046" sideWeight="0.4941435" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14015748" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5066922" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53431374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.119281046" sideWeight="0.4941435" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.49330783" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5066922" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -280,11 +1095,184 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="166" column="12" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1448000283340" expanded="true" signature="1085:1236" placeholder="..." />
+            <marker date="1448000283340" expanded="true" signature="1178:1204" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1448000283340" expanded="true" signature="1085:1236" placeholder="..." />
+            <marker date="1448000283340" expanded="true" signature="1178:1204" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1448000283340" expanded="true" signature="1085:1236" placeholder="..." />
+            <marker date="1448000283340" expanded="true" signature="1178:1204" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -300,7 +1288,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -326,80 +1320,210 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06390978">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21656051">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/yeoman.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11505922">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34517765">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/semantic/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.51212937">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/semantic/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22102426">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/angular/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.085642315">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/hover/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state vertical-scroll-proportion="-6.269231">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/hover/css/hover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap-social/bootstrap-social.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34767643">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/lib/gmaps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-72.71068">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33278418">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.min.css.bk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.92688173">
+          <caret line="10" column="128334" selection-start-line="10" selection-start-column="128334" selection-end-line="10" selection-end-column="128334" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/default.php">
+    <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06390978">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.36989248">
+          <caret line="4" column="118500" selection-start-line="4" selection-start-column="118500" selection-end-line="4" selection-end-column="118500" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/app/views/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.115385">
-          <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
+        <state vertical-scroll-proportion="1.4532521">
+          <caret line="50" column="70" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.tmp/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21138212">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$PROJECT_DIR$/app/images/label-edit.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7349398">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-          <folding />
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1448000283340" expanded="true" signature="1085:1236" placeholder="..." />
+            <marker date="1448000283340" expanded="true" signature="1178:1204" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/bower_components/jquery/src/css/var/rmargin.js">
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10240964">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-12.615385">
+          <caret line="44" column="81" selection-start-line="44" selection-start-column="81" selection-end-line="44" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.036093418">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.64650285">
+          <caret line="210" column="21" selection-start-line="210" selection-start-column="21" selection-end-line="210" selection-end-column="21" />
           <folding />
         </state>
       </provider>
