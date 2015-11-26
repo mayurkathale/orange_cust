@@ -215,3 +215,15 @@ span#socialIcon > a {
 .navbar-default {
   border-bottom: 4px solid #18bc9c !important;
 }
+
+.navbar {
+  -webkit-transition: all 0.6s ease-out;
+  -moz-transition: all 0.6s ease-out;
+  -o-transition: all 0.6s ease-out;
+  -ms-transition: all 0.6s ease-out;
+  transition: all 0.6s ease-out;
+}
+
+.navbar.scrolled {
+  background:rgba(44,62,80,0.5);
+}
