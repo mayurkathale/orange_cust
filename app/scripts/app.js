@@ -20,8 +20,9 @@ angular
     'ngTouch',
     'ui.router'
   ])
-  .config(function ($httpProvider, $stateProvider, $urlRouterProvider) {
+  .config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
     $urlRouterProvider.otherwise("home");
+    $locationProvider.hashPrefix('!');
     $stateProvider
       .state('home', {
         templateUrl: '../views/home.html',

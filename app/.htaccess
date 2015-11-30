@@ -1,2 +1,6 @@
 header add Access-Control-Allow-Origin "*"
 header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^185\.28\.20\.78
+RewriteRule (.*) http://www.orangehrm-customization.com/$1 [R=301,L]
