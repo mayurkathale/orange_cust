@@ -1,71 +1,78 @@
-<h1>
-  Contact
-</h1>
-<h3>I'd Like to hear from you</h3>
-<hr>
-<div id="map"></div>
-<div class="row">
-  <div class="col-md-6">
-    <div class="contentContainer">
-      <ul >
-        <li>Contact Details:</li>
-        <li>Name: Mayur Vijay Kathale</li>
-        <li>phone : +91 9689829447</li>
-        <li>Email: mayur.kathale@gmail.com</li>
-      </ul>
+<div class="container-fluid" style="padding-top:60px">
+  <div class="row">
+    <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
+      <h1>
+        Contact
+      </h1>
+      <h5 class="text-muted">I'd Like to hear from you</h5>
     </div>
   </div>
+  <br>
+  <div class="row">
+    <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
+      <div class="containerBorder">
+        <div class="containerPadding">
+          <h4>Get In Touch</h4>
+          <ul class="contactList">
+            <li><span class="labelContact"><strong>Name:</strong></span> Mayur V. Kathale</li>
+            <li><span class="labelContact"><strong>Mobile :</strong></span> +91 9689829447</li>
+            <li><span class="labelContact"><strong>Email:</strong></span> mayur.kathale@gmail.com</li>
+          </ul>
 
+          Connect with me<br>
+          <div class="connectWithMe">
+            <a class="btn btn-social-icon btn-facebook hvr-wobble-skew" href="https://www.facebook.com/mayur.kathale" target="_blank"><span class="fa fa-facebook"></span></a>
+            <a class="btn btn-social-icon btn-github hvr-wobble-skew" href="https://github.com/mayuratsynerzip" target="_blank"><span class="fa fa-github"></span></a>
+            <a class="btn btn-social-icon btn-google hvr-wobble-skew" href="https://plus.google.com/u/0/112833450731405021627/posts" target="_blank"><span class="fa fa-google-plus"></span></a>
+            <a class="btn btn-social-icon btn-instagram hvr-wobble-skew" href="https://www.instagram.com/mayurmbl" target="_blank"><span class="fa fa-instagram"></span></a>
+            <a class="btn btn-social-icon btn-linkedin hvr-wobble-skew" href="https://in.linkedin.com/in/mayurkathale" target="_blank"><span class="fa fa-linkedin"></span></a>
+            <a class="btn btn-social-icon btn-twitter hvr-wobble-skew" href="https://twitter.com/MayurKathale" target="_blank"><span class="fa fa-twitter"></span></a>
+          </div>
+        </div>
+      </div>
+    </div>
 
-  <div class="col-md-6">
-    <div class="contentContainer contactForm">
-      Drop me a line
-      <form role="form">
-        <div class="form-group">
-          <label class="control-label col-sm-2" for="name">Name*:</label>
-          <div class="col-sm-10">
-            <input type="text" class="form-control input-sm" id="name" placeholder="Enter Name" required>
+    <div class="col-lg-5 col-md-5">
+      <div class="contactForm">
+        <div class="containerBorder">
+          <div class="containerPadding">
+            <h4>Drop me a line:</h4>
+            <form  method="POST" action="../php/sendContactEmail.php" class="css-form" name="contactForm" id="contactForm">
+              <div class="form-group">
+                <label for="name" class="control-label">Name<sup>*</sup>: </label>
+                <input type="text" class="form-control" name="name" id="name" ng-model="name" required/>
+                <div ng-show="contactForm.$submitted || contactForm.name.$touched">
+                  <div ng-show="contactForm.name.$error.required" class="validation-msg">Tell us your name.</div>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="email" class="control-label">E-mail<sup>*</sup>: </label>
+                <input type="email" class="form-control" name="email" id="email" ng-model="email" required/>
+                <div ng-show="contactForm.$submitted || contactForm.email.$touched">
+                  <div ng-show="contactForm.email.$error.required" class="validation-msg">Tell us your email.</div>
+                  <div ng-show="contactForm.email.$error.email" class="validation-msg">E-mail format is incorrect.</div>
+                </div>
+              </div>
+              <div class="form-group" >
+                <label for="subject" class="control-label">Subject: </label>
+                <input type="text" class="form-control" name="subject" id="subject" ng-model="subject" required/>
+                <div ng-show="contactForm.$submitted || contactForm.subject.$touched">
+                  <div ng-show="contactForm.subject.$error.required" class="validation-msg">Write a subject.</div>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="message" class="control-label">Message<sup>*</sup>: </label>
+                <textarea class="form-control" name="message" id="message" col="6" ng-model="message" required></textarea>
+                <div ng-show="contactForm.$submitted || contactForm.subject.$touched">
+                  <div ng-show="contactForm.subject.$error.required" class="validation-msg">Write a Message.</div>
+                </div>
+              </div>
+              <br>
+              <input type="submit" value="Submit" class="btn btn-primary" />
+            </form>
           </div>
         </div>
-        <div class="form-group">
-          <label class="control-label col-sm-2" for="email">Email*:</label>
-          <div class="col-sm-10">
-            <input type="email" class="form-control input-sm" id="email" placeholder="Enter Email" required>
-          </div>
-        </div>
-        <div class="form-group">
-          <label class="control-label col-sm-2" for="subject">Subject*:</label>
-          <div class="col-sm-10">
-            <input type="text" class="form-control input-sm" id="subject" placeholder="Enter Subject" required>
-          </div>
-        </div>
-        <div class="form-group">
-          <label class="control-label col-sm-2" for="msg">Message*:</label>
-          <div class="col-sm-10">
-            <textarea class="form-control" rows="6" id="msg" placeholder="Enter Message" style="resize: both" required></textarea>
-          </div>
-        </div>
-
-        <div class="form-group">
-          <div class="col-sm-offset-2 col-sm-10">
-            <button type="submit" class="btn btn-success">Send Message</button>
-          </div>
-        </div>
-      </form>
+      </div>
     </div>
   </div>
 </div>
-<script>
-  url = GMaps.staticMapURL({
-    size: [610, 300],
-    lat: 18.5490431,
-    lng: 73.819273,
-    markers: [
-      {lat: 18.5490431, lng: 73.819273}
-    ]
-  });
-
-  $('<img/>').attr('src', url)
-    .appendTo('#map');
-</script>
-

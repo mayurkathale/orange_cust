@@ -2,8 +2,10 @@
 <html class="no-js">
 <head>
   <meta charset="utf-8">
+  <meta name="fragment" content="!">
   <title>OrangeHRM Customization - Mayur Kathale</title>
   <meta name="description" content="">
+  <meta name="keywords" content="orangehrm, customization, freelancer, modify orangehrm, customize orangehrm">
   <meta name="viewport" content="width=device-width">
   <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
   <!-- build:css(.) styles/vendor.css -->
@@ -12,12 +14,12 @@
   <!-- endbower -->
   <!-- endbuild -->
   <!-- build:css(.tmp) styles/main.css -->
-  <link rel="stylesheet" href="styles/main.css">
-  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="bower_components/bootstrap-social/bootstrap-social.css">
-  <link rel="stylesheet" href="bower_components/hover/css/hover-min.css">
-  <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+  <link rel="stylesheet" href="styles/main.css"/>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="bower_components/bootstrap-social/bootstrap-social.css"/>
+  <link rel="stylesheet" href="bower_components/hover/css/hover-min.css"/>
+  <link rel="stylesheet" href="bower_components/animate.css/animate.min.css"/>
   <!-- endbuild -->
 </head>
 <body ng-app="ohrmCustomizationApp">
@@ -51,10 +53,8 @@
     </div>
   </div>
 </div>
-<div class="container-fluid" style="padding-top:60px">
-  <div ui-view=""></div>
-</div>
-<div class="footer" style="margin-top: 30px">
+<div ui-view=""></div>
+<div class="footer" style="border: 0px">
   <div class = "row faded">
     <div class="col-md-4 verticalalign">
       <a href="skype:mayur.kathale?chat" style="padding-left: 10px"><img src="./images/skype_button.png"></a>
@@ -105,6 +105,7 @@
 <!-- endbower -->
 <script src="scripts/app.js"></script>
 <script src="scripts/main.js"></script>
+<script src="scripts/lib/jquery.appear.js"></script>
 <!-- endbuild -->
 </body>
 </html>

@@ -1,10 +1,9 @@
 $(document).ready(function(){
-  $(document).click(function () {
+    $(document).click(function () {
     var _opened = $("#js-navbar-collapse").hasClass("in");
     if (_opened === true/* && !clickover.hasClass("navbar-toggle")*/) {
       $("button.navbar-toggle").click();
     }
-    return false;
   });
 
   function checkScroll(){
@@ -22,6 +21,11 @@ $(document).ready(function(){
       checkScroll();
     });
   }
+
+  $(".nav li").click(function(){
+    $(".nav li").removeClass("active");
+    $(this).addClass("active");
+  });
 });
 
 tiles = $(".row.faded").fadeTo(0, 0);
