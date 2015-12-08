@@ -15,7 +15,21 @@ body {
 .footer {
   padding-left: 15px;
   padding-right: 15px;
+  position: relative;
 }
+
+/* Custom page footer */
+.footer {
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.centerContainer {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 
 /* Custom page header */
 .header {
@@ -28,13 +42,6 @@ body {
   margin-bottom: 0;
   line-height: 40px;
   padding-bottom: 19px;
-}
-
-/* Custom page footer */
-.footer {
-  padding-top: 19px;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
 }
 
 .container-narrow > hr {
@@ -163,12 +170,8 @@ span#socialIcon > a {
 
 .contactForm {
   height : 367px;
-  overflow:visible !important;
-}
-.footer-nav {
-  margin-top: 15px;
-  color: #ffffff;
-  margin-bottom: 0 !important;
+  overflow: visible !important;
+  position: relative;
 }
 
 ::-moz-selection {
@@ -362,6 +365,7 @@ input.form-control {
   color: #ffffff;
   height: 80px !important;
   font-size: 21px;
+  max-height: 110px;
 }
 
 .enjoy-css {
@@ -374,14 +378,15 @@ input.form-control {
   top: 0;
   padding: 0 8px;
   border: 4px solid rgb(255,255,255);
-  font: normal normal bold 15px/40px Arial, Helvetica, sans-serif;
+  font: normal normal bold 15px/22px Arial, Helvetica, sans-serif;
   color: rgb(255, 255, 255);
   text-align: center;
   text-transform: uppercase;
   -o-text-overflow: clip;
   text-overflow: clip;
   background: #18bc9c;
-  margin-left: 40px;
+  margin-left: 15px;
+  vertical-align: middle;
 }
 
 .enjoy-css:hover {
@@ -475,7 +480,6 @@ sup {
 /*start of skills*/
 
 .wraper{
-  width:470px;
   margin:50px auto;
 }
 

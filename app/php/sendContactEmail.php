@@ -5,10 +5,9 @@
   $message = $_POST['message'];
   $name = $_POST['name'];
   $admin_email = "mayur.kathale@gmail.com";
-  $from = "mayur.mbll@gmail.com";
 
   //send email
-  mail($admin_email, $subject, $message." from ".$name." (".$email.")");
+  mail($admin_email, $subject, "\nName ".$name."\nE-mail: ".$email."\nSubject :".$subject."\nMessage :".$message);
   }
-  header('Location: ' . $_SERVER['HTTP_REFERER']);
+  header('Location: ' . $_SERVER['HTTP_REFERER']."/#!/contact");
 ?>
