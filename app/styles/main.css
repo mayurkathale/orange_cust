@@ -359,7 +359,6 @@ input.form-control {
 }
 
 .uppar {
-  margin-top: 70px;
   border: 0px;
   background: #18bc9c;
   color: #ffffff;
@@ -560,4 +559,12 @@ sup {
 end of skills*/
 .form-group {
   margin-bottom: 0px !important;
+}
+
+.sea {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+  height: 1px;
+  width: 1px;
 }
