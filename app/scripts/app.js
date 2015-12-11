@@ -57,5 +57,17 @@ angular
         //controller: 'AboutCtrl',
         url: '/work',
         onEnter: scrollContent
+      })
+      .state('privacy-statement', {
+        templateUrl: '../views/privacy-statement.html',
+        //controller: 'AboutCtrl',
+        url: '/privacy-statement',
+        onEnter: scrollContent
+      })
+      .state('term-of-use', {
+        templateUrl: '../views/term-of-use.html',
+        //controller: 'AboutCtrl',
+        url: '/term-of-use',
+        onEnter: scrollContent
       });
   });
