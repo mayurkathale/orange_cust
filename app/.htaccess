@@ -2,7 +2,7 @@ header add Access-Control-Allow-Origin "*"
 header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
 
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^185\.28\.20\.78
+RewriteCond %{HTTP_HOST} ^52\.27\.105\.155
 RewriteRule (.*) http://www.orangehrm-customization.com/$1 [R=301,L]
 
 # compress text, html, javascript, css, xml:
@@ -25,5 +25,4 @@ AddOutputFilterByType DEFLATE application/x-javascript
     ExpiresByType image/png "access plus 1 month"
 </IfModule>
 
-Options +Indexes
 IndexIgnore *

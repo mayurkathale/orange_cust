@@ -13,14 +13,17 @@
       <div class="containerBorder">
         <div class="containerPadding">
           <h4>Let's Connect</h4>
+          <br>
           <ul class="contactList">
             <li><span class="labelContact"><i class="glyphicon glyphicon-user"></i>&nbsp;&nbsp;<strong>Name:</strong></span> Mayur V. Kathale</li>
             <li><span class="labelContact"><i class="glyphicon glyphicon-phone"></i><strong>&nbsp;&nbsp;Mobile :</strong></span> +91 9689829447</li>
             <li><span class="labelContact"><i class="glyphicon glyphicon-envelope"></i><strong>&nbsp;&nbsp;Email:</strong></span> mayur.kathale@gmail.com</li>
             <li><span class="labelContact"><i class="glyphicon glyphicon-headphones"></i><strong>&nbsp;&nbsp;Skype:</strong></span> mayur.kathale</li>
           </ul>
-          <br><br>
-          <div class="connectWithMe text-center">
+          <br>
+          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="100%" height="300px" src="https://maps.google.com/maps?hl=en&q=aundh pune&ie=UTF8&t=roadmap&z=12&iwloc=B&output=embed"><div><small><a href="http://embedgooglemaps.com">embedgooglemaps.com</a></small></div><div><small><a href="http://buyproxies.io/">buy private proxies</a></small></div></iframe>
+          <br><br><br>
+          <div class="text-center">
             <a class="btn btn-social-icon btn-facebook hvr-wobble-skew" href="https://www.facebook.com/mayur.kathale" target="_blank"><span class="fa fa-facebook"></span></a>
             <a class="btn btn-social-icon btn-github hvr-wobble-skew" href="https://github.com/mayuratsynerzip" target="_blank"><span class="fa fa-github"></span></a>
             <a class="btn btn-social-icon btn-google hvr-wobble-skew" href="https://plus.google.com/u/0/112833450731405021627/posts" target="_blank"><span class="fa fa-google-plus"></span></a>
@@ -37,20 +40,21 @@
         <div class="containerBorder">
           <div class="containerPadding">
             <h4>Drop me a line:</h4>
-            Have a project in mind, got a burning question or just wanna say hi?Send me a message & i'll get back soon.<br>
+            <br>
+            Have a project in mind, got a burning question or just wanna say hi? Send me a message & i'll get back soon.<br>
             <form  method="POST" action="../php/sendContactEmail.php" class="css-form" name="contactForm" id="contactForm">
               <div class="form-group">
                 <label for="name" class="control-label">Name<sup>*</sup>: </label>
                 <input type="text" class="form-control" name="name" id="name" ng-model="name" required/>
                 <div ng-show="contactForm.$submitted || contactForm.name.$touched">
-                  <div ng-show="contactForm.name.$error.required" class="validation-msg">Tell us your name.</div>
+                  <div ng-show="contactForm.name.$error.required" class="validation-msg">Write your name.</div>
                 </div>
               </div>
               <div class="form-group">
                 <label for="email" class="control-label">E-mail<sup>*</sup>: </label>
                 <input type="email" class="form-control" name="email" id="email" ng-model="email" required/>
                 <div ng-show="contactForm.$submitted || contactForm.email.$touched">
-                  <div ng-show="contactForm.email.$error.required" class="validation-msg">Tell us your email.</div>
+                  <div ng-show="contactForm.email.$error.required" class="validation-msg">Write your email.</div>
                   <div ng-show="contactForm.email.$error.email" class="validation-msg">E-mail format is incorrect.</div>
                 </div>
               </div>
