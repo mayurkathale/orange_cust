@@ -18,12 +18,6 @@ body {
   position: relative;
 }
 
-
-.footer {
-  color: #777;
-  border-top: 1px solid #e5e5e5;
-}
-
 .centerContainer {
   position: relative;
   top: 50%;
@@ -156,11 +150,11 @@ span#socialIcon > a {
   width: 30px;
 }
 
-.contactForm {
+/*.contactForm {
   height : 367px;
   overflow: visible !important;
   position: relative;
-}
+}*/
 
 ::-moz-selection {
   color: #2c3e50 !important;
@@ -206,7 +200,7 @@ span#socialIcon > a {
   background: linear-gradient(to right, rgba(252,252,252,1) 0%, rgba(255,255,255,1) 0%, rgba(44,62,80,1) 9%, rgba(44,62,80,1) 52%, rgba(44,62,80,1) 91%, rgba(255,255,255,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ffffff', GradientType=1 );
 }
-.footer {
+footer {
   background: #2c3e50;
   color: #ffffff;
 }
