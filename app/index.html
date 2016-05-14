@@ -63,6 +63,75 @@
   </div>
 </div>
 <div ui-view=""></div>
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#contact-modal" style="display:none">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="contact-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Contact</h4>
+      </div>
+      <div class="modal-body">
+        <form  method="POST" action="../php/sendContactEmail.php" class="css-form" name="contactForm" id="contactForm">
+          <div class="form-group">
+            <label for="name" class="control-label">Name<sup>*</sup>: </label>
+            <input type="text" class="form-control" name="name" id="name" ng-model="name" required/>
+            <div ng-show="contactForm.$submitted || contactForm.name.$touched">
+              <div ng-show="contactForm.name.$error.required" class="validation-msg">Write your name.</div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="email" class="control-label">E-mail<sup>*</sup>: </label>
+            <input type="email" class="form-control" name="email" id="email" ng-model="email" required/>
+            <div ng-show="contactForm.$submitted || contactForm.email.$touched">
+              <div ng-show="contactForm.email.$error.required" class="validation-msg">Write your email.</div>
+              <div ng-show="contactForm.email.$error.email" class="validation-msg">E-mail format is incorrect.</div>
+            </div>
+          </div>
+          <div class="form-group" >
+            <label for="subject" class="control-label">Subject<sup>*</sup>: </label>
+            <input type="text" class="form-control" name="subject" id="subject" ng-model="subject" required/>
+            <div ng-show="contactForm.$submitted || contactForm.subject.$touched">
+              <div ng-show="contactForm.subject.$error.required" class="validation-msg">Write a subject.</div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="message" class="control-label">Message<sup>*</sup>: </label>
+            <textarea class="form-control" name="message" id="message" col="6" ng-model="message" required></textarea>
+            <div ng-show="contactForm.$submitted || contactForm.subject.$touched">
+              <div ng-show="contactForm.subject.$error.required" class="validation-msg">Write a Message.</div>
+            </div>
+          </div>
+          <br>
+          <input type="submit" value="Submit" class="btn btn-primary" />
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- contact modal ends here -->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/5736e5d3c17a21421351d89b/default';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+  })();
+</script>
+<!--End of Tawk.to Script-->
 <footer>
   <div class = "row faded">
     <div class="col-md-4 verticalalign">
