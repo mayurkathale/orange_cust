@@ -1,4 +1,13 @@
-<div class="container-fluid" style="padding-top:60px">
+<script type="text/javascript">
+  function onsubmit(token) {
+    $('#contactForm').submit();
+  }
+  function validate(event) {
+    event.preventDefault();
+    grecaptcha.execute();
+  }
+</script>
+<div class="container-fluid" style="padding-top:60px" ng-controller="ContactCtrl">
   <div class="row">
     <div class="col-lg-4 col-md-4 col-lg-offset-1 col-md-offset-1">
       <h1>
@@ -21,7 +30,7 @@
             <li><span class="labelContact"><i class="glyphicon glyphicon-headphones"></i><strong>&nbsp;&nbsp;Skype:</strong></span> mayur.kathale</li>
           </ul>
           <br>
-          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="100%" height="300px" src="https://maps.google.com/maps?hl=en&q=aundh pune&ie=UTF8&t=roadmap&z=12&iwloc=B&output=embed"><div><small><a href="http://embedgooglemaps.com">embedgooglemaps.com</a></small></div><div><small><a href="http://buyproxies.io/">buy private proxies</a></small></div></iframe>
+          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="100%" height="300px" src="https://maps.google.com/maps?hl=en&q=Sakal+Nagar,+Aundh,+Pune,+Maharashtra+411007&ie=UTF8&t=roadmap&z=12&iwloc=B&output=embed"><div><small><a href="http://embedgooglemaps.com">embedgooglemaps.com</a></small></div><div><small><a href="http://buyproxies.io/">buy private proxies</a></small></div></iframe>
           <br><br><br>
           <div class="text-center">
             <a class="btn btn-social-icon btn-facebook hvr-wobble-skew" href="https://www.facebook.com/mayur.kathale" target="_blank"><span class="fa fa-facebook"></span></a>
@@ -73,7 +82,13 @@
                 </div>
               </div>
               <br>
-              <input type="submit" value="Submit" class="btn btn-primary" />
+              <button
+                class="g-recaptcha btn btn-primary"
+                data-sitekey="6Lfp0iUUAAAAAJSK9MvZ6o0n3PARMw95VeliEF5_"
+                data-callback="onsubmit"
+                onclick="validate(event)">
+                Send
+              </button>
             </form>
           </div>
         </div>
