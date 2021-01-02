@@ -60,28 +60,6 @@ body {
   margin-top: 28px;
 }
 
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-  .container {
-    max-width: 730px;
-  }
-
-  /* Remove the padding we set earlier */
-  .header,
-  .marketing,
-  .footer {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  /* Space out the masthead */
-  .header {
-    margin-bottom: 30px;
-  }
-  /* Remove the bottom border on the jumbotron for visual effect */
-  .jumbotron {
-    border-bottom: 0;
-  }
-}
 
 .heading-line {
   font-weight: 400;
@@ -92,6 +70,7 @@ body {
   font-weight: lighter !important;
   color: #666666;
   text-shadow: 2px 2px #D3D3D3 !important;
+  font-size: 24px;
 }
 
 .user-name {
@@ -721,3 +700,35 @@ end of skills*/
   color: rgba(81, 112, 144, 1);
 }
 /*portfolio colours*/
+
+@media only screen and (max-width: 768px) {
+  .heading-line {
+    font-size: 20px;
+  }
+  footer .row {
+    font-size: 16px;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
